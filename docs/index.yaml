@@ -2,7 +2,23 @@ apiVersion: v1
 entries:
   goapi:
   - apiVersion: v1
-    created: "2021-11-03T12:35:44.32147+07:00"
+    created: "2021-11-08T05:28:13.775448425Z"
+    description: Go API
+    digest: 21bb019f5d1367c63e0d943c60e5108223c4b0aba70976d4fa21b4938a47d949
+    home: https://github.com/tinntsea/go-project
+    keywords:
+    - go api
+    maintainers:
+    - email: tinnt.sea@gmail.com
+      name: Tin Nguyen
+    name: goapi
+    sources:
+    - https://github.com/tinntsea/go-project
+    urls:
+    - goapi-0.20211108.32.tgz
+    version: 0.20211108.32
+  - apiVersion: v1
+    created: "2021-11-08T05:28:13.7748158Z"
     description: Go API
     digest: 13cf5d2fa79a0068d202f4c19f7c4e0e90d6c7063840a78b827e987c9cda4716
     home: https://github.com/tinntsea/go-project
@@ -17,4 +33,4 @@ entries:
     urls:
     - goapi-0.20211103.123.tgz
     version: 0.20211103.123
-generated: "2021-11-03T12:35:44.320801+07:00"
+generated: "2021-11-08T05:28:13.773031883Z"
