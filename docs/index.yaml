@@ -2,7 +2,23 @@ apiVersion: v1
 entries:
   goapi:
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.484767965Z"
+    created: "2021-11-08T07:49:52.550258387Z"
+    description: Go API
+    digest: 55420681fb4b9319dc206ab39ee172294fc27102e916bf49f1c30a456fdae8f8
+    home: https://github.com/tinntsea/go-project
+    keywords:
+    - go api
+    maintainers:
+    - email: tinnt.sea@gmail.com
+      name: Tin Nguyen
+    name: goapi
+    sources:
+    - https://github.com/tinntsea/go-project
+    urls:
+    - goapi-0.20211108.60.tgz
+    version: 0.20211108.60
+  - apiVersion: v1
+    created: "2021-11-08T07:49:52.54992222Z"
     description: Go API
     digest: d42fd3d4c5ce331ea4ad3d651388633935989bd1fc49b608531d096fdf854571
     home: https://github.com/tinntsea/go-project
@@ -18,7 +34,7 @@ entries:
     - goapi-0.20211108.59.tgz
     version: 0.20211108.59
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.484440381Z"
+    created: "2021-11-08T07:49:52.549674053Z"
     description: Go API
     digest: dd23f57aa27335f49855e65d6cf62314bfd6a9686a225db82027a200935345e6
     home: https://github.com/tinntsea/go-project
@@ -34,7 +50,7 @@ entries:
     - goapi-0.20211108.58.tgz
     version: 0.20211108.58
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.484129965Z"
+    created: "2021-11-08T07:49:52.549374012Z"
     description: Go API
     digest: 2fa90466c1ce6890b65b11f4b3720da75d8cd9d510d1eaa8f667d2cdfce7ae70
     home: https://github.com/tinntsea/go-project
@@ -50,7 +66,7 @@ entries:
     - goapi-0.20211108.57.tgz
     version: 0.20211108.57
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.483709506Z"
+    created: "2021-11-08T07:49:52.549008512Z"
     description: Go API
     digest: 01a7cbfc1a8a37d52e6b6a2d561d18998d417db37359e1046e5f969ccd0e5863
     home: https://github.com/tinntsea/go-project
@@ -66,7 +82,7 @@ entries:
     - goapi-0.20211108.56.tgz
     version: 0.20211108.56
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.483462173Z"
+    created: "2021-11-08T07:49:52.548770887Z"
     description: Go API
     digest: 6a1edc63989b4d455132a70529d8e5888794e496cbc494a8b565ca9503b11eef
     home: https://github.com/tinntsea/go-project
@@ -82,7 +98,7 @@ entries:
     - goapi-0.20211108.55.tgz
     version: 0.20211108.55
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.483217715Z"
+    created: "2021-11-08T07:49:52.548509637Z"
     description: Go API
     digest: e2cfdfb8ae1ff444d514ad45db91b26105ceef2bb4a0f45b40d308b41610df3e
     home: https://github.com/tinntsea/go-project
@@ -98,7 +114,7 @@ entries:
     - goapi-0.20211108.47.tgz
     version: 0.20211108.47
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.48289709Z"
+    created: "2021-11-08T07:49:52.547912553Z"
     description: Go API
     digest: 99f9b262e83dc8e4db4eaed4f4388fefbef1d3936218daad8f7563e794a17b6b
     home: https://github.com/tinntsea/go-project
@@ -114,7 +130,7 @@ entries:
     - goapi-0.20211108.39.tgz
     version: 0.20211108.39
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.482576131Z"
+    created: "2021-11-08T07:49:52.54765472Z"
     description: Go API
     digest: 21bb019f5d1367c63e0d943c60e5108223c4b0aba70976d4fa21b4938a47d949
     home: https://github.com/tinntsea/go-project
@@ -130,7 +146,7 @@ entries:
     - goapi-0.20211108.32.tgz
     version: 0.20211108.32
   - apiVersion: v1
-    created: "2021-11-08T07:48:11.482306965Z"
+    created: "2021-11-08T07:49:52.547351178Z"
     description: Go API
     digest: 13cf5d2fa79a0068d202f4c19f7c4e0e90d6c7063840a78b827e987c9cda4716
     home: https://github.com/tinntsea/go-project
@@ -145,4 +161,4 @@ entries:
     urls:
     - goapi-0.20211103.123.tgz
     version: 0.20211103.123
-generated: "2021-11-08T07:48:11.481314756Z"
+generated: "2021-11-08T07:49:52.545813678Z"
